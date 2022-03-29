@@ -44,7 +44,7 @@ Design a service that synchronizes the state of a related set of accounts from S
 1. Make sure your code runs before submitting the pull request.
 2. Record any potential challenges your system may face, and how to protect it against them.
 3. Your written solutions should be added in the README.md of your submission.
-4. When opening a pull request for your solution, please tag @codebender828 as a reviewer
+4. When opening a pull request for your solution, please tag [@codebender828] as a reviewer
 
 
 ### Advanced (optional)
@@ -74,3 +74,6 @@ Design a service that synchronizes the state of a related set of accounts from S
 <!-- Chains -->
 [Solana]: https://solana.com
 [Ethereum]: https://ethereum.org
+
+<!-- People -->
+[@codebender828]: https://github.com/codebender828
